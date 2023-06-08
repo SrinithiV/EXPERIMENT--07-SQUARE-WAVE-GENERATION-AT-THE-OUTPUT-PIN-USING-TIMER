@@ -237,34 +237,34 @@ void assert_failed(uint8_t *file, uint32_t line)
 FOR PULSE AT 500
 
 ![image](https://github.com/SrinithiV/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/118722030/e1ca4fd0-207c-4b2d-97d1-ea55bbbbc0eb)
-
+```
 TON = 8
 TOFF= 8
 TOTAL TIME = 16
 FREQUENCY = 1/(TOTAL TIME)
 FREQUENCY = 62.5HZ
-
+```
 FOR PULSE AT 700
 
 ![image](https://github.com/SrinithiV/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/118722030/030bc26d-8f3f-4686-92f1-4b62a8b56b6d)
-
+```
 TON = 13
 TOFF= 3
 TOTAL TIME = 16
 FREQUENCY = 1/(TOTAL TIME)
 FREQUENCY = 62.5HZ
-
+```
 
 FOR PULSE AT 900
 
 ![image](https://github.com/SrinithiV/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/118722030/720b4697-5b98-4ea7-a754-e9678693d2cd)
-
+```
 TON = 14
 TOFF= 2
 TOTAL TIME = 16
 FREQUENCY = 1/(TOTAL TIME)
 FREQUENCY = 62.5HZ
-
+```
 
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
